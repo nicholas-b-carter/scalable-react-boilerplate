@@ -123,7 +123,7 @@
     "markdown-loader": "^0.1.7",
     "minimist": "^1.2.0",
     "morgan": "^1.7.0",
-    "offline-plugin": "^3.4.2",
+    "offline-plugin": "^5.0.4",
     "react": "^15.1.0",
     "react-addons-css-transition-group": "^15.2.1",
     "react-addons-test-utils": "^15.3.2",
