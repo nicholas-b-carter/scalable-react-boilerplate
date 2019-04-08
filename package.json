@@ -120,7 +120,7 @@
     "jest-cli": "16.0.2",
     "jest-webpack-alias": "^3.3.3",
     "json-loader": "^0.5.4",
-    "markdown-loader": "^0.1.7",
+    "markdown-loader": "^5.0.0",
     "minimist": "^1.2.0",
     "morgan": "^1.7.0",
     "offline-plugin": "^3.4.2",
